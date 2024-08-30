@@ -1,5 +1,6 @@
 import pygame
 
+
 class Player:
     def __init__(self):
         self.player_img = pygame.image.load("images/space-ship.png")
